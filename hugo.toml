@@ -1,0 +1,25 @@
+baseURL = 'https://github-py.github.io/'
+languageCode = 'en-us'
+title = '🇺🇦    Stop The War!'
+theme = 'hextra'
+
+enableRobotsTXT = true
+enableGitInfo = false
+enableEmoji= true
+
+
+# UNIFORM KILO ROMEO ALPHA INDIA NOVEMBER ECHO
+
+[menu]
+
+[[menu.main]]
+identifier = "🏴‍☠️"
+name = "🏴‍☠️"
+pageRef = "/op"
+weight = 1
+
+[[menu.main]]
+identifier = "poem"
+name = "poem"
+pageRef = "/poem"
+weight = 6
