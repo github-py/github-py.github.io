@@ -76,6 +76,9 @@ description = "Modern, responsive, batteries-included Hugo theme for creating be
 displayUpdatedDate = true
 dateFormat = "January 2, 2006"
 
+[services.googleAnalytics]
+ID = "G-MEASUREMENT_ID"
+
 [languages.en]
 languageName = "English"
 weight = 1

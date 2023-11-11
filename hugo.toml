@@ -7,6 +7,8 @@ enableRobotsTXT = true
 enableGitInfo = false
 enableEmoji= true
 
+[services.googleAnalytics]
+ID = "G-3C1PCFCC8K"
 
 # UNIFORM KILO ROMEO ALPHA INDIA NOVEMBER ECHO
 
